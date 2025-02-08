@@ -41,6 +41,7 @@
   </a>
 </div>
 
+<div align="center">
 <h3 align="left">🎶 Currently vibing with: </h3>
 
 ###
@@ -53,6 +54,7 @@
 </a>
 
 ###
+</div>
 
 <br clear="both">
 
