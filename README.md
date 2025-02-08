@@ -41,13 +41,16 @@
   </a>
 </div>
 
+<h3 align="left">🎶 Currently vibing with: </h3>
+
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/7sku9r8ve6pe42bl602s2lruv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7sku9r8ve6pe42bl602s2lruv&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<a href="https://alexsmith.pythonanywhere.com/link">
+  <img
+    src="https://alexsmith.pythonanywhere.com.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ###
 
