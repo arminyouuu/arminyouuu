@@ -45,9 +45,9 @@
 
 ###
 
-<a href="https://alexsmith.pythonanywhere.com/link">
+<a href="https://alexsmith.pythonanywhere.com/">
   <img
-    src="https://alexsmith.pythonanywhere.com.pythonanywhere.com"
+    src="https://alexsmith.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
