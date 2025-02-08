@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-<h3 align="left">🎶 Currently vibing with: </h3>
+<h3 align="center">🎶 Currently vibing with: </h3>
 
 ###
 
