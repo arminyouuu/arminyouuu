@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Armin and I'm a mobile app developer</h2>
+<h2 align="left">Hi 👋! My name is Armin and I'm a developer</h2>
 
 ###
 
-<p align="left">🛜 I'm currently trying to build a good portfolio for myself by doing freelancing<br>👨🏼‍💻 Working as a developer since 2022<br>🌱 I'm always trying to learn new things</p>
+<p align="left">🛜 I'm currently trying to build my own startups<br>👨🏼‍💻 Working as a developer since 2022<br>🌱 I'm always trying to learn new things</p>
 
 ###
 
